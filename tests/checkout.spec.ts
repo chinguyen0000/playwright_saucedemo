@@ -4,6 +4,7 @@ import { login, addFirstItemToCart, goToCheckout } from "../helpers/utils";
 
 test.beforeEach(async ({ page }) => {
     await login(page, "standard_user", "secret_sauce");
+    await expect(page).toHaveURL('https://www.saucedemo.com/inventory.html');
 });
 
 //testInfo là object đặc biệt cung cấp thông tin và API liên quan đến test hiện tại (dùng để gắn file vào report).

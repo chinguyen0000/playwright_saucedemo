@@ -3,6 +3,7 @@ import { login } from "../helpers/utils";
 
 test.beforeEach(async ({ page }) => {
     await login(page, "standard_user", "secret_sauce");
+    await expect(page).toHaveURL('https://www.saucedemo.com/inventory.html');
 });
 
 test("Add item to cart and verify display", async ({ page }) => {
