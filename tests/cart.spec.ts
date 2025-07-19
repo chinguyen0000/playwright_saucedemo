@@ -15,7 +15,7 @@ test("Add item to cart and verify display", async ({ page }) => {
     await page.click(".shopping_cart_link");
     await expect(page).toHaveURL(/.*cart.html/);
 
-    console.log("Số lượng item trong giỏ: " + await page.locator(".cart_item").count());
+    //console.log("Số lượng item trong giỏ: " + await page.locator(".cart_item").count());
     expect(await page.locator(".cart_item").count()).toEqual(1);
 
 });

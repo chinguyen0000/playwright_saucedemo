@@ -118,23 +118,23 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 2595,
+                  "duration": 6073,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-18T11:38:47.098Z",
+                  "startTime": "2025-07-19T06:36:51.290Z",
                   "annotations": [],
                   "attachments": [
                     {
-                      "name": "Ảnh chụp màn hình 1",
+                      "name": "Successful payment screenshot",
                       "contentType": "image/png",
-                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Pay-successfully-after-adding-item-to-cart-chromium\\attachments\\Ảnh-chụp-màn-hình-1-716178400af346298fe7f42b000b673294d351d5.png"
+                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Pay-successfully-after-adding-item-to-cart-chromium\\attachments\\Successful-payment-screenshot-716178400af346298fe7f42b000b673294d351d5.png"
                     },
                     {
-                      "name": "Ảnh chụp màn hình 2",
+                      "name": "Successful order",
                       "contentType": "image/png",
-                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Pay-successfully-after-adding-item-to-cart-chromium\\attachments\\Ảnh-chụp-màn-hình-2-932286ee316e5479dacb1ad406077ede49b6981e.png"
+                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Pay-successfully-after-adding-item-to-cart-chromium\\attachments\\Successful-order-932286ee316e5479dacb1ad406077ede49b6981e.png"
                     }
                   ]
                 }
@@ -163,14 +163,20 @@
                   "workerIndex": 1,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 2041,
+                  "duration": 5168,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-18T11:38:47.122Z",
+                  "startTime": "2025-07-19T06:36:51.290Z",
                   "annotations": [],
-                  "attachments": []
+                  "attachments": [
+                    {
+                      "name": "Error message when not filling information",
+                      "contentType": "image/png",
+                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Do-not-fill-information-when-checking-out-chromium\\attachments\\Error-message-when-not-filling-information-fbdc0969ffd98f97b6df17a3b6fad86ef8f2a0a6.png"
+                    }
+                  ]
                 }
               ],
               "status": "expected"
@@ -178,7 +184,7 @@
           ],
           "id": "25ab1bfc84c57e3e3a45-80dbf6d1e29e9fd13b20",
           "file": "checkout.spec.ts",
-          "line": 46,
+          "line": 39,
           "column": 5
         },
         {
@@ -197,23 +203,23 @@
                   "workerIndex": 2,
                   "parallelIndex": 2,
                   "status": "passed",
-                  "duration": 5499,
+                  "duration": 4521,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-18T11:38:47.084Z",
+                  "startTime": "2025-07-19T06:36:51.313Z",
                   "annotations": [],
                   "attachments": [
                     {
-                      "name": "Ảnh chụp màn hình 1",
+                      "name": "Successful payment screenshot",
                       "contentType": "image/png",
-                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Pay-successfully-after-adding-item-to-cart-firefox\\attachments\\Ảnh-chụp-màn-hình-1-716178400af346298fe7f42b000b673294d351d5.png"
+                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Pay-successfully-after-adding-item-to-cart-firefox\\attachments\\Successful-payment-screenshot-716178400af346298fe7f42b000b673294d351d5.png"
                     },
                     {
-                      "name": "Ảnh chụp màn hình 2",
+                      "name": "Successful order",
                       "contentType": "image/png",
-                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Pay-successfully-after-adding-item-to-cart-firefox\\attachments\\Ảnh-chụp-màn-hình-2-932286ee316e5479dacb1ad406077ede49b6981e.png"
+                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Pay-successfully-after-adding-item-to-cart-firefox\\attachments\\Successful-order-932286ee316e5479dacb1ad406077ede49b6981e.png"
                     }
                   ]
                 }
@@ -242,14 +248,20 @@
                   "workerIndex": 3,
                   "parallelIndex": 3,
                   "status": "passed",
-                  "duration": 5239,
+                  "duration": 4506,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-18T11:38:47.100Z",
+                  "startTime": "2025-07-19T06:36:51.272Z",
                   "annotations": [],
-                  "attachments": []
+                  "attachments": [
+                    {
+                      "name": "Error message when not filling information",
+                      "contentType": "image/png",
+                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Do-not-fill-information-when-checking-out-firefox\\attachments\\Error-message-when-not-filling-information-fbdc0969ffd98f97b6df17a3b6fad86ef8f2a0a6.png"
+                    }
+                  ]
                 }
               ],
               "status": "expected"
@@ -257,7 +269,7 @@
           ],
           "id": "25ab1bfc84c57e3e3a45-561497786bb16636ebfe",
           "file": "checkout.spec.ts",
-          "line": 46,
+          "line": 39,
           "column": 5
         },
         {
@@ -276,23 +288,23 @@
                   "workerIndex": 4,
                   "parallelIndex": 1,
                   "status": "passed",
-                  "duration": 3970,
+                  "duration": 3426,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-18T11:38:52.705Z",
+                  "startTime": "2025-07-19T06:36:58.642Z",
                   "annotations": [],
                   "attachments": [
                     {
-                      "name": "Ảnh chụp màn hình 1",
+                      "name": "Successful payment screenshot",
                       "contentType": "image/png",
-                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Pay-successfully-after-adding-item-to-cart-webkit\\attachments\\Ảnh-chụp-màn-hình-1-716178400af346298fe7f42b000b673294d351d5.png"
+                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Pay-successfully-after-adding-item-to-cart-webkit\\attachments\\Successful-payment-screenshot-716178400af346298fe7f42b000b673294d351d5.png"
                     },
                     {
-                      "name": "Ảnh chụp màn hình 2",
+                      "name": "Successful order",
                       "contentType": "image/png",
-                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Pay-successfully-after-adding-item-to-cart-webkit\\attachments\\Ảnh-chụp-màn-hình-2-932286ee316e5479dacb1ad406077ede49b6981e.png"
+                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Pay-successfully-after-adding-item-to-cart-webkit\\attachments\\Successful-order-932286ee316e5479dacb1ad406077ede49b6981e.png"
                     }
                   ]
                 }
@@ -319,16 +331,22 @@
               "results": [
                 {
                   "workerIndex": 5,
-                  "parallelIndex": 0,
+                  "parallelIndex": 3,
                   "status": "passed",
-                  "duration": 2766,
+                  "duration": 2653,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-07-18T11:38:53.698Z",
+                  "startTime": "2025-07-19T06:36:59.236Z",
                   "annotations": [],
-                  "attachments": []
+                  "attachments": [
+                    {
+                      "name": "Error message when not filling information",
+                      "contentType": "image/png",
+                      "path": "C:\\COURSE\\saucedemo_auto\\test-results\\checkout-Do-not-fill-information-when-checking-out-webkit\\attachments\\Error-message-when-not-filling-information-fbdc0969ffd98f97b6df17a3b6fad86ef8f2a0a6.png"
+                    }
+                  ]
                 }
               ],
               "status": "expected"
@@ -336,7 +354,7 @@
           ],
           "id": "25ab1bfc84c57e3e3a45-726f82fd1c47f81ba707",
           "file": "checkout.spec.ts",
-          "line": 46,
+          "line": 39,
           "column": 5
         }
       ]
@@ -344,8 +362,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-18T11:38:46.090Z",
-    "duration": 10878.324999999999,
+    "startTime": "2025-07-19T06:36:50.278Z",
+    "duration": 13074.274000000001,
     "expected": 6,
     "skipped": 0,
     "unexpected": 0,

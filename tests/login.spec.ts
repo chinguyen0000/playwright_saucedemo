@@ -9,7 +9,7 @@ test("Login with valid credentials", async ({ page }) => {
     await page.getByRole("button", { name: "Login" }).click();  //nhấn nút Login
 
     await expect(page).toHaveURL("https://www.saucedemo.com/inventory.html");   //expect sẽ chuyển hướng sang trang này
-    console.log("hiện thông tin : "+ await page.locator(".inventory_item").count());
+    //console.log("hiện thông tin : "+ await page.locator(".inventory_item").count());
     expect(await page.locator(".inventory_item").count()).toBeGreaterThan(0);   //expect số lượng các class inventory_item sẽ lớn hơn 0
 });
 
