@@ -20,16 +20,16 @@ This is a practice automation testing project using [Playwright](https://playwri
 ---
 
 ## 📁 Folder Structure
-
-playwright_saucedemo/
+```playwright_saucedemo/
 ├── tests/ # Test scenarios
 │ ├── login.spec.ts
 │ ├── cart.spec.ts
 │ └── checkout.spec.ts
-├── utils/ # Utility/helper functions (to be added if needed)
+├── helpers/ 
 ├── playwright.config.ts # Playwright configuration
 ├── package.json
 └── README.md
+```
 
 ## 🚀 Getting Started
 
